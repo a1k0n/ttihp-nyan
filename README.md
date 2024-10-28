@@ -2,7 +2,7 @@
 
 # Tiny Tapeout Nyan Cat
 
-A 1x2 tile VGA nyan cat with sound hacked together the day before the Tiny Tapeout 8 deadline.
+A 1x2 tile VGA nyan cat with sound hacked together the day before the Tiny Tapeout 8 deadline; ported to the IHP shuttle
 
 - [Read the documentation for project](docs/info.md)
 
